@@ -83,4 +83,8 @@ Go to the **History** tab and tap **Clear** in the top-right corner.
 
 Pacea does **not** collect, store, or share any personal data.
 
+- No accounts are required  
+- No analytics or tracking are used  
+- No data is transmitted off your device  
+
 All routines and session history are stored locally on your device and never leave it.
